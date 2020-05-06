@@ -1,6 +1,10 @@
 # YelpCamp
 
-## 28 - YelpCamp: Basics
+## Description
+
+    A campsite reviewing platform where users can comment, post pictures and upvote/downvote a comment
+
+## Creation Steps
 
 ### Initial Setup
 
@@ -147,11 +151,3 @@
 ### Make Landing Great Again!
 
 ### Make The Price Dynamic
-
-     RESTFUL ROUTES Examples
-    name    url         verb    description
-    ==============================================
-    INDEX   /dogs       GET     Display a list of all dogs
-    NEW     /dogs/new   GET     Displays form to make a new dog
-    CREATE  /dogs       POST    Add new dog to DB
-    SHOW    /dogs/:id   GET     Shows info about one dog
